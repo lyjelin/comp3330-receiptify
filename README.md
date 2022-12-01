@@ -1,5 +1,7 @@
 # COMP3330 Group Assignment Example 
 
+> HKU Innoacademy Page for Receiptify: [https://innoacademy.engg.hku.hk/receiptify/](https://innoacademy.engg.hku.hk/receiptify/)
+
 QR Code scanning tutorial using the ```
 expo-barcode-scanner``` library
 
